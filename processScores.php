@@ -2,7 +2,6 @@
 
 include 'Team.php';
 
-
 $teamName = $_GET['teamName'];
 
 $home1 = $_GET['home1'];
